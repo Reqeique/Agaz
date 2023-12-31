@@ -1,0 +1,3 @@
+# Agaz
+#### Video Demo: https://youtu.be/uOgOt_sRpaY
+#### Description: The Agaz app is an innovative task management tool designed for students in cellphone-restricted environments. It uses Optical Character Recognition (OCR) technology to convert handwritten tasks into a digital format. Students simply write their to-do lists on paper, then use the app to scan their list once they’re home. The app recognizes the tasks and automatically uploads them to Google Tasks, bridging the gap between paper and digital task management. This saves time, increases efficiency, and reduces the risk of losing or forgetting important tasks. Agaz is a practical solution for students navigating the digital age within traditional school settings.
